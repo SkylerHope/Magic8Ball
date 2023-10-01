@@ -1,0 +1,12 @@
+#magic-button:hover
+{
+    cursor: pointer;
+}
+
+.ball
+{
+    height: 400px;
+    width: 400px;
+    background-color: black;
+    border-radius: 50%;
+}
